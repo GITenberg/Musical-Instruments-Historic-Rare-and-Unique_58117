@@ -5,12 +5,17 @@ contributor:
     agent_name: Gibb, William
     gutenberg_agent_id: '45288'
     url: http://www.gutenberg.org/2009/agents/45288
+covers:
+- cover_type: archival
+  image_path: 58117-h/images/cover.jpg
 creator:
   author:
     agent_name: Hipkins, A. J.
     gutenberg_agent_id: '49779'
     url: http://www.gutenberg.org/2009/agents/49779
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58117#Musical-Instruments-Historic-Rare-and-Unique
 gutenberg_issued: '2018-10-17'
 gutenberg_type: Text
 identifiers:
